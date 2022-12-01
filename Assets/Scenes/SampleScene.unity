@@ -502,7 +502,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 194817746}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.029}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -813,7 +813,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   input: {fileID: 194817754}
-  interact: 0
+  interact: 1
   dialogData: {fileID: 11400000, guid: 60489792e4dfea345bacfed77e2530f1, type: 2}
   intercharacterTime: 0.05
   backColor: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 1}
@@ -1438,7 +1438,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.16610283, y: -0.000000016967983, z: 0.0000000028581342, w: 0.9861085}
-  m_LocalPosition: {x: -805.4292, y: -556.01105, z: -13.912531}
+  m_LocalPosition: {x: -805.4292, y: -556.01105, z: -13.941531}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1860,7 +1860,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1815069852}
   m_LocalRotation: {x: 0.16610283, y: -0.000000016967983, z: 0.0000000028581342, w: 0.9861085}
-  m_LocalPosition: {x: -805.4292, y: -556.01105, z: -13.912531}
+  m_LocalPosition: {x: -805.4292, y: -556.01105, z: -13.941531}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

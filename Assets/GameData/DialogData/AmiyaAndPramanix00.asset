@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startCharacter: {fileID: 21300000, guid: 8fd4d68000a245342bad2c9ceb51acf3, type: 3}
   nextCharacter: {fileID: 21300000, guid: a49876da63508c34bb53c1b43165655f, type: 3}
-  multiplyDialog: 0
+  multiplyDialog: 1
   dialogBases:
   - characterName: "\u963F\u7C73\u5A05"
     dialogSprite: {fileID: 21300000, guid: 8fd4d68000a245342bad2c9ceb51acf3, type: 3}
